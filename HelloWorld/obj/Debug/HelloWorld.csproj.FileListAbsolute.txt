@@ -11,10 +11,10 @@ e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.g.c
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.g.i.cs
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.g.cs
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\XamlTypeInfo.g.cs
-e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.xaml
-e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.xbf
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\XamlSaveStateFile.xml
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.xaml
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.xaml
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.xbf
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.xbf
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

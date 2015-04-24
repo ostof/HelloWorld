@@ -7,11 +7,34 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Resources>
+        <TimePickerFlyout x:Key="FlyoutBase1"/>
+        
+        
+    </Page.Resources>
+
 
     <Grid>
-        <Button x:ConnectionId='1' x:Name="clickMeButton" Content="Click Me" HorizontalAlignment="Left" Margin="26,36,0,0" VerticalAlignment="Top"                            />
-        <TextBlock x:Name="resultTextBlock" HorizontalAlignment="Left" Margin="26,110,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="48"/>
+        <!--<Button x:Name="clickMeButton" Content="Click Me" HorizontalAlignment="Left" Margin="26,36,0,0" VerticalAlignment="Top" Click="clickMeButton_Click"/>
+        <TextBlock x:Name="resultTextBlock" HorizontalAlignment="Left" Margin="26,110,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="48"/>-->
+        
+        <StackPanel Margin="20,30,0,0">
+            <TextBlock Text="APP NAME" Foreground="{StaticResource MyBrush}" FontSize="22" />
+            <TextBlock Text="page name" />
+            <Button Content="My Brush Example" Height="100" Style="{StaticResource myButtonStyle}"/>
+        </StackPanel>
+
 
     </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar ClosedDisplayMode="Minimal">
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="About"/>
+            </CommandBar.SecondaryCommands>
+            <AppBarButton Icon="Accept" Label="appbarbutton"/>
+            <AppBarButton Icon="Cancel" Label="appbarbutton"/>
+        </CommandBar>
+    </Page.BottomAppBar>
 </Page>
 

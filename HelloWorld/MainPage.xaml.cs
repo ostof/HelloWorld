@@ -47,7 +47,7 @@ namespace HelloWorld
 
         private void clickMeButton_Click(object sender, RoutedEventArgs e)
         {
-            resultTextBlock.Text = "Hello World";
+            //resultTextBlock.Text = "Hello World";
         }
     }
 }
