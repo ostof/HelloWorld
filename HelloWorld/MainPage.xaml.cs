@@ -49,5 +49,23 @@ namespace HelloWorld
         {
             //resultTextBlock.Text = "Hello World";
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            // simple navigation
+            //Frame.Navigate(typeof(Page2));
+
+           // Passing a simple type, like a string
+           // Frame.Navigate(typeof(Page2), "Hola from MainPage");
+
+            NavigationContext nav = new NavigationContext()
+            {
+                ID = 7,
+                Name = "Max Mustermann",
+                Description = "This is a test"
+            };
+
+            Frame.Navigate(typeof(Page2), nav);
+        }
     }
 }

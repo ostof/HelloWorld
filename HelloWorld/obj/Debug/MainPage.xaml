@@ -20,8 +20,8 @@
         
         <StackPanel Margin="20,30,0,0">
             <TextBlock Text="APP NAME" Foreground="{StaticResource MyBrush}" FontSize="22" />
-            <TextBlock Text="page name" />
-            <Button Content="My Brush Example" Height="100" Style="{StaticResource myButtonStyle}"/>
+            <TextBlock Text="main page" />
+            <Button x:ConnectionId='1' Content="My Brush Example" Height="100" Style="{StaticResource myButtonStyle}"                     />
         </StackPanel>
 
 

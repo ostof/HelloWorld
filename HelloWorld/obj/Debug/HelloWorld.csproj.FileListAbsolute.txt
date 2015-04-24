@@ -1,5 +1,6 @@
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\App.xbf
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\MainPage.xbf
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\Page2.xbf
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xr.xml
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
@@ -10,12 +11,16 @@ e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.g.i
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.g.cs
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.g.i.cs
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.g.cs
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\Page2.g.i.cs
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\Page2.g.cs
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\XamlTypeInfo.g.cs
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\XamlSaveStateFile.xml
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.xaml
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.xaml
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\Page2.xaml
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\App.xbf
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.xbf
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\Page2.xbf
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\priconfig.xml
@@ -30,3 +35,8 @@ e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\qualifi
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\qualifiers.txt.intermediate
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\ProjectArchitectures.txt
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\Page3.xbf
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\Page3.g.i.cs
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\Page3.g.cs
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\Page3.xaml
+e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\Page3.xbf

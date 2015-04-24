@@ -49,6 +49,12 @@
     <AppxPackagedFile Include="e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\Page2.xbf">
+      <PackagePath>Page2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\Page3.xbf">
+      <PackagePath>Page3.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="e:\dokumente\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xr.xml">
       <PackagePath>HelloWorld.xr.xml</PackagePath>
     </AppxPackagedFile>
